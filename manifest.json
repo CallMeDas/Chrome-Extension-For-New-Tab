@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Cool Theme",
+    "version": "1.0.0",
+    "description": "A cool customize chrome theme.",
+    "chrome_url_overrides": {
+      "newtab": "index.html"
+    },
+    "icons": {
+      "24" : "icon.png"
+    }
+    
+   
+  }
